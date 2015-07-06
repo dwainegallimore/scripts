@@ -1,2 +1,2 @@
-# php-hacks
-Comprised of a number of PHP scripts which I wrote for fun/making my life easier
+# scripts
+Comprised of a number of scripts which I wrote for fun/making my life easier

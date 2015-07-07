@@ -16,3 +16,9 @@ if total>0:
     print "There are %d vowels in the input" % total
 else:
     print "there are no vowels"
+
+words = 1
+for y in result:
+    if y == " " :
+        words +=1
+print "Number of words in the string is %d" % words

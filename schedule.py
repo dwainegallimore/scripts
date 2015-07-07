@@ -84,6 +84,7 @@ class Patient(Person):
 
     def get_record(self):
         record = Person.get_record(self)
+        record[patient_id] = self.patient_id
         return record
 
 def schedule(patient, doctor, slot):
